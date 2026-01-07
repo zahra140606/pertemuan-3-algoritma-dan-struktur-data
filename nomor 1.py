@@ -1,0 +1,10 @@
+nama = input("Masukkan nama Anda: ")
+usia = input("Masukkan usia Anda: ")
+alamat = input("Masukkan alamat Anda: ")
+hobi = input("Masukkan hobi Anda: ")
+
+print("\n=== Data Pengguna ===")
+print("Nama   :", nama)
+print("Usia   :", usia)
+print("Alamat :", alamat)
+print("Hobi   :", hobi)
